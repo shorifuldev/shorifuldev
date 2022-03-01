@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <<h1 align="center">Hey, I'm Shoriful Islam</h1>
 <h3 align="center">A professional Android Developer from Bangladesh</h3>
 
