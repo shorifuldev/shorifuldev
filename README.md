@@ -17,7 +17,7 @@ Let me introduce myself First. I'm Shoriful Islam, a professional Android Develo
 <p align="center">
 <a href="https://www.linkedin.com/in/shorifulislamdev/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/200/000000/linkedin.png" alt="shoriful-islam-dev" height="55" width="55" /></a>
 <a href="https://www.facebook.com/shorifulislamdev/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/200/000000/facebook-new.png" alt="shoriful-islam-dev" height="50" width="50" /></a>
-<a href="https://discord.gg/263rX7JwfZ" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/discord-square.png" alt="263rX7JwfZ" height="55" width="55" /></a>
+<a href="https://discord.gg" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/discord-square.png" alt="263rX7JwfZ" height="55" width="55" /></a>
 </p>
 
 <h3 align="center">Languages and Tools I use:</h3>
