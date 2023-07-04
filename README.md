@@ -1,9 +1,9 @@
-<h1 align="center">Hey, I'm Shoriful Islam</h1>
+<h1 align="center">Hey, I'm Shariful Islam</h1>
 <h3 align="center">A professional Android Developer from Bangladesh</h3>
 
 <h4 align="left">
 <img align="center" src="https://img.icons8.com/plasticine/100/000000/employee-card.png" alt="Introduction" height="20" width="20" /></a>
-Let me introduce myself First. I'm Shoriful Islam, a professional Android Developer from Bangladesh. Working as an App developer since 1 years. Have a great knowledge about Data Structure and Algorithms and Problem solving with Java. Expertise with Android SDK, Google play service, Firebase and Version Control System. 
+Let me introduce myself First. I'm Shariful Islam, a professional Android Developer from Bangladesh. Working as an App developer since 1 years. Have a great knowledge about Data Structure and Algorithms and Problem solving with Java. Expertise with Android SDK, Google play service, Firebase and Version Control System. 
 </h4>
 
 
