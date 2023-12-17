@@ -24,12 +24,13 @@ Let me introduce myself First. I'm Shariful Islam, a professional Android Develo
 <p align="center">
 <a href="https://developer.android.com" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/android-studio--v3.png" alt="Android Studio" height="40" width="40" /></a>
 <a href="https://www.java.com" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png" alt="Java Programming Language" height="47" width="47" /></a>
+<a href="https://kotlinlang.org/" target="blank"><img align="center" src="https://img.icons8.com/color/240/kotlin.png" alt="Kotlin" height="45" width="45" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="blank"><img align="center" src="https://img.icons8.com/color/240/c-sharp-logo-2.png" alt="C#" height="45" width="45" /></a>
+<a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="blank"><img align="center" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL" height="45" width="45" /></a>
 <a href="https://firebase.google.com/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/google-firebase-console.png" alt="Google Firebase" height="40" width="36" /></a>
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/git.png" alt="Git" height="45" width="45" /></a>
 <a href="https://www.photoshop.com/en" target="blank"><img align="center" src="https://img.icons8.com/fluency/240/000000/adobe-photoshop.png" alt="Adobe Photoshop" height="45" width="45" /></a>
 <a href="https://www.adobe.com/products/xd.html" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png" alt="Adobe XD" height="45" width="45" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="blank"><img align="center" src="https://img.icons8.com/color/240/c-sharp-logo-2.png" alt="C#" height="45" width="45" /></a>
-<a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="blank"><img align="center" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL" height="45" width="45" /></a>
 </p>
 
 </br>
